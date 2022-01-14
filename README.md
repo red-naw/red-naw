@@ -1,2 +1,1 @@
-cuida
-<script>alert("lapada")</script>
+</p><script>alert("lapada")</script><p>cuida</p>
